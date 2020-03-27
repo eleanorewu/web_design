@@ -13,6 +13,7 @@
     background-image: linear-gradient(rgba(32, 32, 32, 0.2) 1px, transparent 0), linear-gradient(90deg, rgba(32, 32, 32, 0.2) 1px, transparent 0);
     background-size: 30px 30px, 30px 30px;
     min-height: 100vh;
+    box-sizing: border-box;
 }
 .web_container{
     position: relative;
