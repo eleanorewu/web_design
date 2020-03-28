@@ -5,7 +5,7 @@
     font-family: 微軟正黑體;
 }
 
-.webhtml{
+body{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -108,6 +108,17 @@
     color: #c3b6e1;
     font-weight: 900;
 }
+
+.copyright {
+    margin-top: 50px
+  }
+  
+.copyright p {
+    font-size: 12px;
+    letter-spacing: 2.5px;
+    font-weight: 700;
+    color: #763032;
+  }
 
 @media (max-width: 992px)
 {
