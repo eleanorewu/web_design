@@ -1,2 +1,2 @@
 # web_design
-Web Design https://uie-823.github.io/web_design/web.html
+Web Design https://eleanorewu.github.io/web_design/web.html
